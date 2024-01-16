@@ -1,0 +1,191 @@
+@media only screen and (max-width:768px) {
+
+    .navbar-main {
+        padding: 20px 40px;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .home-background {
+        height: 1160px;
+    }
+
+    .right-nav {
+        margin-left: 220px;
+    }
+
+    .menu-bar {
+        display: block;
+        margin-left: auto;
+    }
+
+    .container-items {
+        display: block;
+    }
+
+    .container-content {
+        margin-top: 80px;
+        max-width: 696px;
+        margin-left: 40px;
+    }
+
+    .container-content h1 {
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: -1.2px;
+    }
+
+    .container-content p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .mobile-img {
+        margin-left: 218px;
+    }
+
+    .client-logo {
+        margin-top: -18px
+    }
+
+    .feature-section {
+        margin-top: 80px;
+    }
+
+    .feature-title h2 {
+        font-size: 36px;
+    }
+
+    .feature-title p {
+        margin: 0 40px;
+    }
+
+    .features {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        margin: 50px 40px;
+    }
+
+    #testimonial {
+        margin-top: 30px;
+    }
+
+    .testimonial-heading {
+        margin-left: 40px;
+    }
+
+    .testimonial-heading h1 {
+        font-size: 36px;
+        letter-spacing: -0.2px;
+        margin-left: 11px;
+        margin-top: -53px;
+        max-width: 600px;
+    }
+
+    .testimonial-heading p {
+        margin-left: 11px;
+    }
+
+    .testimonials {
+        gap: 0;
+    }
+
+    .testimonial-item1 {
+        max-width: 688px;
+        margin: 40px 40px -16px 40px;
+        padding: 32px;
+    }
+
+    .testimonial-item2 {
+        max-width: 688px;
+        margin: 40px 40px -16px 40px;
+        padding: 32px;
+    }
+
+    .testimonial-item3 {
+        max-width: 688px;
+        margin: 40px 40px 80px 40px;
+    }
+
+    .achievements {
+        gap: 48px;
+        margin: 80px 40px;
+    }
+
+    .metrics-text h1 {
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .achievement-title h1{ 
+        font-size: 30px;
+    }
+    .achievement-cards{ 
+        row-gap: 40px;
+        column-gap: 170px;
+    }
+
+    .logo-text h1 {
+        max-width: 326px;
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    .logo-clouds {
+        margin: 32px 40px;
+        gap: 10px;
+    }
+
+    .integration-section-right img {
+        max-width: 328px;
+        margin-top: 20px;
+    }
+
+
+    .cta-left {
+        margin-top: 62px;
+        margin-left: 0;
+    }
+
+    .cta-left h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    
+
+    #cta {
+        padding: 2px 40px;
+    }
+
+    .cta-content {
+        display: block;
+    }
+    .cta-right{ 
+        display: flex;
+        gap: 100px;
+        margin-left: 30px;
+    }
+    .mobile2 img {
+        max-width: 232px;
+        margin-left: -16px;
+        margin-top: 160px;
+    }
+
+    .stores {
+        margin-bottom: 31px;
+    }
+
+    .footer {
+        background: var(--Black, #000);
+        padding: 64px 40px;
+    }
+    .footer-left{ 
+        margin: 0;
+    }
+
+}
+
